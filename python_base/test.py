@@ -6,7 +6,7 @@ Date: 2019/8/10
 
 
 def wrapper(func):
-    print("welcome to wrapper")
+    print("welcome to wrapper haha")
 
     def do_func(*args, **kwargs):
         print("this is do_func")
